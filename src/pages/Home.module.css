@@ -1,0 +1,17 @@
+.titleHome {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.iconContactPhone {
+  width: 50px;
+  height: 50px;
+}
+
+.containerHome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 100px;
+}
